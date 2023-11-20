@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinSampleApp</string>
+    <string name="hello_pelz">Hello Pelz!</string>
+</resources>
