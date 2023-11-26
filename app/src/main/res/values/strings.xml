@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">KotlinSampleApp</string>
     <string name="hello_pelz">Hello Pelz!</string>
+    <string name="already_have_account_html"><font color="#808080">Already have an account?</font> <font color="#2a9d8f">Login</font></string>
 </resources>
